@@ -1,0 +1,189 @@
+.gb{
+  margin: 0;
+  padding: 0;
+  background-color: #c8c3c3;
+}
+
+
+.b1{
+  width: 100%;
+  height: 40px;
+  background-color: #3b3849;
+}
+.bb{
+  width: 900px;
+  height: 2050px;
+  background-color: #ffffff;
+  margin: auto;
+}
+.b2{
+  width: 100%;
+  height: 290px;
+  background-color: #262535;
+  padding-top: 20px;
+  margin-top: -25px;
+}
+.text{
+  margin-top: -10px;
+}
+h1{
+font-size: 250%;
+  font-family: Roboto;
+    color: white;
+    text-align: center;
+
+
+}
+h2{
+font-size: 135%;
+  font-family: Roboto;
+    color: white;
+text-align: center;
+
+}
+.famyliya{
+  margin-top:-40px;
+}
+.galerf{
+  width: 100%;
+  height: 650px;
+  background-color:#323140;
+  padding-top: 10px;
+  margin-top: -1px;
+}
+
+.container{
+  width: 80%;
+  margin: 30px auto;
+padding: 0;
+height: 80%;
+}
+.container .items{
+  display: inline-block;
+}
+.container div{
+  display: inline-block;
+    width: 32.4%;
+    margin: 0%;
+    border: 2px solid #323140;
+    height: 32%;
+}
+.container  img{
+  max-width: 100%;
+  max-height: 120%;
+  border-radius: 10px;
+border: 2px solid white;
+}
+.overlay{
+
+position: absolute;
+width: 100%;
+height: 100%;
+top: 0;
+left: 0;
+
+  display: none;
+}
+ .popup{
+  max-width:50%;
+  height: 100%;
+  background-color: #323140;
+  margin: auto;
+position: relative;
+padding: 10px;
+box-sizing: border-box;
+top:25%;
+}
+
+.info{
+  width: 100%;
+  height: 1150px;
+  padding: 0;
+  margin: 0;
+  padding-top: 20px;
+  background-color: #660000;
+}
+.infimg{
+  width: 60%;
+  margin-left: 17%;
+position: relative;
+
+}
+.infimg p{
+  color: white;
+  font-family: Roboto;
+  position: absolute;
+  text-align: center;
+  margin-top:60px;
+  left: 120px;
+  font-size: 180%;
+}
+.infimg img{
+min-width: 100%;
+min-height: 100%;
+display: block;
+}
+.footer{
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  margin: 0;
+  background-color: #272732;
+}
+.ss{
+  width: 50%;
+  margin: 30px auto;
+padding: 0;
+padding-left: 28%;
+height: 100%;
+}
+.ss a{
+  display: inline-block;
+    width: 8%;
+    margin: 1%;
+
+}
+.ss  img{
+  max-width: 100%;
+  max-height: 100%;
+  border-radius: 50%;
+  padding: 10px;
+}
+.avatar{
+  width: 700px;
+  margin-left:250px;
+  overflow:hidden;
+}
+.avatar  li{
+  list-style: none;
+  float: left;
+  width: 20%;
+  margin: 2% 2% 0px 2%;
+  display: inline-block;
+
+}
+.avatar  img{
+  width: 100%;
+  height: 100%;
+  border-radius: 80px;
+  display: block;
+
+}
+.avatar h2{
+  text-align: left;
+  font-size:40px;
+}
+.avatar  p{
+    margin-left:50px;
+    margin-top:0px;
+}
+.avatar a{
+  color: white;
+}
+.red1{
+  max-width: 100%;
+}
+.red2{
+  font-size: 17px;
+  color: white;
+}
